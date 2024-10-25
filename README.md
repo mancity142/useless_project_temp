@@ -4,12 +4,12 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Real2Virtual
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Jerry Berna] - [Albertian Institute Of Science and Technology(aisat)]
+- Member 2: [Alan Verghese Mathew] - [Albertian Institute Of Science and Technolgy(aisat)]
 - Member 3: [Name] - [College]
 
 ### Project Description
@@ -24,10 +24,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Open cv
+- Unity
+- Python
+- c##
 
 For Hardware:
 - [List main components]
