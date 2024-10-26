@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Body tracking and movement Replication 🎯
 
 
 ## Basic Details
@@ -63,12 +63,11 @@ Working in C#
 https://drive.google.com/file/d/1gaaR7-y6OYK5FNeP5EKOPZRf2evJM6IS/view?usp=drive_link
 The video demonstrates how the human body with its marked coordinates with change in position leading to movement of body systems can be reciprocated into skeletal system.
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
 - Name 1: Jerry Bernard - Dealt with opencv and coordiante mapping then implementing it with unity to the skeletal system.
-- Name 2: Alan Verghese Mathew-suggested changes in the projrct making tried out options it unity and submission process in github.
+- Name 2: Alan Verghese Mathew-suggested changes in the project making tried out options in unity and  undertook submission process in github.
 - 
 
 ---
