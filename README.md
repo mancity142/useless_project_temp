@@ -8,18 +8,18 @@
 
 
 ### Team Members
-- Team Lead: [Jerry Berna] - [Albertian Institute Of Science and Technology(aisat)]
-- Member 2: [Alan Verghese Mathew] - [Albertian Institute Of Science and Technolgy(aisat)]
-- Member 3: [Name] - [College]
+- Team Lead: Jerry Bernard  - Albertian Institute Of Science and Technology(aisat)
+- Member 2: Alan Verghese Mathew - Albertian Institute Of Science and Technolgy(aisat)
+
 
 ### Project Description
-[2-3 lines about what your project does]
+The project is used to depict body tracking and movement replication.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Depiction on how body works or the wave flows in it.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Shows the angle of flexiblity of the body systems and joints and to replicate it with a skeletal systems.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -27,15 +27,15 @@ For Software:
 - Open cv
 - Unity
 - Python
-- c##
+- c#
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- 
+- Laptop
+- Camera to capture the videos
 
 ### Implementation
-For Software:
+For Software:Installation of unity,vs code(open cv) 
 # Installation
 [commands]
 
@@ -87,9 +87,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Name 1: Jerry Bernard - Dealt with opencv and coordiante mapping then implementing it with unity to the skeletal system.
+- Name 2: Alan Verghese Mathew-suggested changes in the projrct making tried out options it unity and submission process in github.
+- 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
