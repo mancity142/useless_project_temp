@@ -30,20 +30,20 @@ For Software:
 - c#
 
 For Hardware:
-- 
+-
 - Laptop
 - Camera to capture the videos
 
 ### Implementation
 For Software:Installation of unity,vs code(open cv) 
 # Installation
-[commands]
+vs code,unity..
 
 # Run
-[commands]
+python,git
 
 ### Project Documentation
-For Software:
+For Software: Github 
 
 # Screenshots (Add at least 3)
 ![Screenshot_20241026-200246](https://github.com/user-attachments/assets/47cd9205-c1f9-4410-9d9f-32d2a0ce2b13)
@@ -54,33 +54,14 @@ This image show how the skeletal replicates the position and movements of the hu
 ![Screenshot 2024-10-26 203724](https://github.com/user-attachments/assets/a77a1375-260f-4d35-9ba9-bdd7e44d46a3)
 Working in C#
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1gaaR7-y6OYK5FNeP5EKOPZRf2evJM6IS/view?usp=drive_link
+The video demonstrates how the human body with its marked coordinates with change in position leading to movement of body systems can be reciprocated into skeletal system.
 
 # Additional Demos
 [Add any extra demo materials/links]
