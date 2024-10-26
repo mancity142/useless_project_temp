@@ -46,14 +46,13 @@ For Software:Installation of unity,vs code(open cv)
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot_20241026-200246](https://github.com/user-attachments/assets/47cd9205-c1f9-4410-9d9f-32d2a0ce2b13)
+This image shows how opencv tracks records the coordinates of human body.
+![Screenshot_20241026-200312](https://github.com/user-attachments/assets/4a35e73c-a736-4b1d-ae69-686d8bb6eeb9)
+This image show how the skeletal replicates the position and movements of the human body with help of coordinates
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2024-10-26 203724](https://github.com/user-attachments/assets/a77a1375-260f-4d35-9ba9-bdd7e44d46a3)
+Working in C#
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
